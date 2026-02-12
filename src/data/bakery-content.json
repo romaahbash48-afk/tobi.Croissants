@@ -1,0 +1,271 @@
+{
+  "seo": {
+    "title": "tobi.Croissants Berlin | Fresh Croissants & Coffee",
+    "description": "Уютная пекарня в Berlin-Wilmersdorf: свежие круассаны, солёная выпечка и спешелти-кофе каждый день.",
+    "keywords": [
+      "Berlin bakery",
+      "croissants Berlin",
+      "Berlin-Wilmersdorf",
+      "кофейня Берлин",
+      "пекарня в Берлине"
+    ]
+  },
+  "brand": {
+    "name": "tobi.Croissants",
+    "district": "Berlin-Wilmersdorf",
+    "badge": "Fresh daily",
+    "title": "Свежие круассаны и кофе в Berlin-Wilmersdorf",
+    "subtitle": "Хрустящая выпечка, сезонные начинки и ароматный кофе рядом с Güntzelstraße."
+  },
+  "navigation": [
+    {
+      "id": "menu",
+      "label": "Menu"
+    },
+    {
+      "id": "gallery",
+      "label": "Галерея"
+    },
+    {
+      "id": "contacts",
+      "label": "Контакты"
+    }
+  ],
+  "cta": {
+    "menu": "Menu",
+    "order": "Заказать",
+    "contacts": "Контакты"
+  },
+  "heroImages": [
+    {
+      "url": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Свежие круассаны на подносе"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Круассан и чашка кофе на столе"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1483695028939-5bb13f8648b0?auto=format&fit=crop&w=1800&q=80",
+      "alt": "Слоёная выпечка и утренний кофе"
+    }
+  ],
+  "categories": [
+    {
+      "id": "all",
+      "label": "Все"
+    },
+    {
+      "id": "sweet",
+      "label": "Сладкие"
+    },
+    {
+      "id": "savory",
+      "label": "С солёной начинкой"
+    },
+    {
+      "id": "coffee",
+      "label": "Кофе"
+    }
+  ],
+  "products": [
+    {
+      "id": "pistachio-vanilla",
+      "name": "Pistachio Vanilla Croissant",
+      "description": "Слоёный круассан с фисташковым кремом и ванильной глазурью.",
+      "price": 5.8,
+      "category": "sweet",
+      "image": "https://images.unsplash.com/photo-1549931319-a545dcf3bc73?auto=format&fit=crop&w=900&q=80",
+      "alt": "Фисташковый круассан"
+    },
+    {
+      "id": "almond",
+      "name": "Almond Butter Croissant",
+      "description": "Классический круассан с миндальным пралине и пудрой.",
+      "price": 5.6,
+      "category": "sweet",
+      "image": "https://images.unsplash.com/photo-1623334044303-241021148842?auto=format&fit=crop&w=900&q=80",
+      "alt": "Миндальный круассан"
+    },
+    {
+      "id": "chocolate",
+      "name": "Pain au Chocolat",
+      "description": "Мягкий центр с тёмным шоколадом 70%.",
+      "price": 5.4,
+      "category": "sweet",
+      "image": "https://images.unsplash.com/photo-1587241321921-91a834d6d191?auto=format&fit=crop&w=900&q=80",
+      "alt": "Круассан с шоколадом"
+    },
+    {
+      "id": "ham-cheese",
+      "name": "Ham & Gruyere",
+      "description": "Солёный круассан с ветчиной и сыром грюйер.",
+      "price": 5.9,
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1608198093002-ad4e005484ec?auto=format&fit=crop&w=900&q=80",
+      "alt": "Солёный круассан с сыром"
+    },
+    {
+      "id": "spinach-feta",
+      "name": "Spinach Feta Twist",
+      "description": "Хрустящая слойка со шпинатом, фетой и травами.",
+      "price": 5.5,
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?auto=format&fit=crop&w=900&q=80",
+      "alt": "Слойка со шпинатом"
+    },
+    {
+      "id": "salmon-cream-cheese",
+      "name": "Smoked Salmon Croissant",
+      "description": "Лосось cold-smoked, крем-сыр и свежий огурец.",
+      "price": 6.0,
+      "category": "savory",
+      "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=900&q=80",
+      "alt": "Круассан с лососем"
+    },
+    {
+      "id": "flat-white",
+      "name": "Flat White",
+      "description": "Двойной эспрессо и бархатное молоко.",
+      "price": 5.2,
+      "category": "coffee",
+      "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+      "alt": "Чашка flat white"
+    },
+    {
+      "id": "cold-brew",
+      "name": "Cold Brew Orange",
+      "description": "Освежающий cold brew с цитрусовой ноткой.",
+      "price": 5.3,
+      "category": "coffee",
+      "image": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?auto=format&fit=crop&w=900&q=80",
+      "alt": "Стакан cold brew"
+    },
+    {
+      "id": "matcha-latte",
+      "name": "Matcha Oat Latte",
+      "description": "Японская матча и овсяное молоко.",
+      "price": 5.4,
+      "category": "coffee",
+      "image": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?auto=format&fit=crop&w=900&q=80",
+      "alt": "Матча латте"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g1",
+      "image": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Круассаны в витрине пекарни",
+      "caption": "Утренний выпуск",
+      "instagramUrl": "https://www.instagram.com/explore/tags/croissant/"
+    },
+    {
+      "id": "g2",
+      "image": "https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Кофе и круассан на столе",
+      "caption": "Coffee pairing",
+      "instagramUrl": "https://www.instagram.com/explore/tags/coffee/"
+    },
+    {
+      "id": "g3",
+      "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Сладкая выпечка и крем",
+      "caption": "Weekend specials",
+      "instagramUrl": "https://www.instagram.com/explore/tags/bakery/"
+    },
+    {
+      "id": "g4",
+      "image": "https://images.unsplash.com/photo-1495147466023-ac5c588e2e94?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Круассаны на пергаменте",
+      "caption": "Golden layers",
+      "instagramUrl": "https://www.instagram.com/explore/tags/pastry/"
+    },
+    {
+      "id": "g5",
+      "image": "https://images.unsplash.com/photo-1464306076886-debede8ca3c7?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Бариста готовит кофе",
+      "caption": "Daily brew",
+      "instagramUrl": "https://www.instagram.com/explore/tags/barista/"
+    },
+    {
+      "id": "g6",
+      "image": "https://images.unsplash.com/photo-1484723091739-30a097e8f929?auto=format&fit=crop&w=1200&q=80",
+      "alt": "Круассаны на деревянной доске",
+      "caption": "Fresh from oven",
+      "instagramUrl": "https://www.instagram.com/explore/tags/croissantlover/"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "name": "Sophie M.",
+      "rating": 5,
+      "text": "Best pistachio croissant in Berlin. Тесто очень лёгкое, кофе отличный.",
+      "source": "Google Review"
+    },
+    {
+      "id": "r2",
+      "name": "Maksim K.",
+      "rating": 5,
+      "text": "Очень уютно, быстро обслуживают, удобный заказ через WhatsApp.",
+      "source": "Instagram DM"
+    },
+    {
+      "id": "r3",
+      "name": "Laura M.",
+      "rating": 4,
+      "text": "Loved the savory options and the staff recommendations.",
+      "source": "Local Guide"
+    }
+  ],
+  "contact": {
+    "address": "Güntzelstraße 45, 10717 Berlin",
+    "phone": "+49 30 1234 5678",
+    "whatsApp": "+49 176 1234 5678",
+    "email": "hello@tobi-croissants.de"
+  },
+  "openingHours": [
+    {
+      "id": "monday",
+      "label": "Понедельник",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "id": "tuesday",
+      "label": "Вторник",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "id": "wednesday",
+      "label": "Среда",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "id": "thursday",
+      "label": "Четверг",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "id": "friday",
+      "label": "Пятница",
+      "open": "07:30",
+      "close": "19:00"
+    },
+    {
+      "id": "saturday",
+      "label": "Суббота",
+      "open": "08:00",
+      "close": "18:00"
+    },
+    {
+      "id": "sunday",
+      "label": "Воскресенье",
+      "open": "08:30",
+      "close": "16:00"
+    }
+  ]
+}
