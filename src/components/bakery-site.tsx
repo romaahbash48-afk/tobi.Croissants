@@ -1,6 +1,6 @@
 "use client";
 
-import { AnimatePresence, motion } from "framer-motion";
+import { AnimatePresence, motion, type Variants } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 import type { BakeryContent, FilterCategory, Weekday } from "@/lib/content";
@@ -9,12 +9,12 @@ interface BakerySiteProps {
   content: BakeryContent;
 }
 
-const fadeInUp = {
+const fadeInUp: Variants = {
   hidden: { opacity: 0, y: 24 },
   visible: {
     opacity: 1,
     y: 0,
-    transition: { duration: 0.55, ease: "easeOut" },
+    transition: { duration: 0.55 },
   },
 };
 
